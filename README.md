@@ -1,7 +1,9 @@
 # CustomFitProject_BE
 
 1. app 정리 및 역할/ 일정
+
 ===app===
+
 1.accounts  -> 유연
 	- 회원가입
 	- 로그인/ 로그아운
