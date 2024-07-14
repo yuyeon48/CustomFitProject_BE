@@ -16,6 +16,5 @@
 	- 키워드 변경
 	- 알림 기능 -> 키워드 변경
 
-2. erd
-   https://www.figma.com/board/C0YErYuDFuOBTtWUrLUBZP/customfit-erd?node-id=0-1&t=Ad4jAcBwrwJWkUsE-0
+2. erd:   https://www.figma.com/board/C0YErYuDFuOBTtWUrLUBZP/customfit-erd?node-id=0-1&t=Ad4jAcBwrwJWkUsE-0
   
